@@ -1,6 +1,6 @@
 ## 💬 This ia just a manager account owned by wolfvox , co.
-## If you want to follow wolfvox then. follow the company
-## ⚡Wolfvox, co. / github.com/wolfvoxco
+If you want to follow wolfvox then. follow the company
+Wolfvox, co. / github.com/wolfvoxco
 
 <!--
 **WolfVox/wolfvox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
