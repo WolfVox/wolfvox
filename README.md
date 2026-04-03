@@ -24,15 +24,5 @@ Wolfvox is dedicated to building high-performance solutions and fostering open-s
 * **🔭 Current Mission:** Scaling core infrastructure at @wolfvoxco.
 * **🌱 Learning:** Advanced CI/CD automation and team scaling.
 * **💬 Ask me about:** Project management, organization workflows, or vision.
-* **📫 Reach out:** [Insert Contact Link]
+* **📫 Reach out: **[wolfvoxco@gmail.com]
 
----
-
-### 📊 System Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wolfvox&show_icons=true&theme=tokyonight&hide_border=true)
-
----
-
-### ⚡ Fun Fact
-The "Wolf" in Wolfvox represents our commitment to the **pack**—building software that thrives on collective intelligence and coordination.
-📫 Reach out: [wolfvoxco@gmail.com]
