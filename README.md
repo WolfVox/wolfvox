@@ -12,11 +12,6 @@ Status: 🟢 Active Management
 🛠️ Strategic Focus
 "Leading through code, managing through clarity."
 
-Gemini said
-Since you're positioning this account as a manager/corporate bridge for Wolfvox, Co., the profile should look professional, clean, and authoritative, while still retaining that "cool" developer aesthetic.
-
-Here is a refined, high-impact README.md template you can use.
-
 🐺 Wolfvox, Co. | Management Portal
 Welcome to the administrative hub for Wolfvox, Co. This account serves as the primary management layer for our organizational operations and repository oversight.
 
@@ -41,4 +36,4 @@ Architecture	Overseeing system design and scalability.
 
 💬 Ask me about: Project management, organization workflows, or company vision.
 
-📫 Reach out: [Insert Email or Social Link]
+📫 Reach out: [wolfvoxco@gmail.com]
