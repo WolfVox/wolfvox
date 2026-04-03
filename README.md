@@ -27,3 +27,4 @@ Wolfvox is dedicated to building high-performance solutions and fostering open-s
 
 📫 Reach out: [wolfvoxco@gmail.com]
 
+![Alt text for screen readers](https://github.com/WolfVox/Logos/blob/main/wolfvoxtm.png?raw=true)
