@@ -24,6 +24,6 @@ Wolfvox is dedicated to building high-performance solutions and fostering open-s
 * **🔭 Current Mission:** Scaling core infrastructure at @wolfvoxco.
 * **🌱 Learning:** Advanced CI/CD automation and team scaling.
 * **💬 Ask me about:** Project management, organization workflows, or vision.
-* 
+
 📫 Reach out: [wolfvoxco@gmail.com]
 
