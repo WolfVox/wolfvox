@@ -1,6 +1,7 @@
 ## Wolfvox Company:🟢
 Welcome to the administrative hub for **Wolfvox, Co.** This account serves as the primary management layer for our organizational operations and repository oversight.
-
+![Alt text for screen readers](https://github.com/WolfVox/Logos/blob/main/Thumbnail/1.png)
+![Alt text for screen readers](https://github.com/WolfVox/Logos/blob/main/Thumbnail/2.png)
 ### 🏢 About the Company
 Wolfvox is dedicated to building high-performance solutions and fostering open-source innovation. We believe in efficiency, modularity, and the power of the pack.
 
@@ -27,4 +28,4 @@ Wolfvox is dedicated to building high-performance solutions and fostering open-s
 
 📫 Reach out: [wolfvoxco@gmail.com]
 
-![Alt text for screen readers](https://github.com/WolfVox/Logos/blob/main/wolfvoxtm.png?raw=true)
+
