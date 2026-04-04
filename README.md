@@ -1,4 +1,4 @@
-## The Wolfvox Company:🟢
+## Wolfvox Company:🟢
 Welcome to the administrative hub for **Wolfvox, Co.** This account serves as the primary management layer for our organizational operations and repository oversight.
 
 ### 🏢 About the Company
