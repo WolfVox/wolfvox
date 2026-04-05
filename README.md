@@ -47,7 +47,7 @@ Wolfvox is dedicated to building high-performance solutions and fostering open-s
 ### 📬 Get in Touch
 <p align="left">
   <a href="mailto:wolfvoxco@gmail.com">
-    <img src="https://img.shields.io/badge/Email-wolfvoxco%40gmail.com-D44638?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-wolfvoxco%40gmail.com-D44638?style=for-the-badge&logo=gmail&logoColor=pink" />
   </a>
   <a href="https://github.com/wolfvoxco">
     <img src="https://img.shields.io/badge/GitHub-Organization-181717?style=for-the-badge&logo=github&logoColor=white" />
