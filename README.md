@@ -1,6 +1,6 @@
 <div> 
-<img src="https://github.com/WolfVox/Logos/blob/main/ShinyLogos/ShinyWolfVox2.png?raw=true">
-## <h1 align="center">Wolfvox Company:🟢</h1>
+<img src="https://github.com/WolfVox/Logos/blob/main/ShinyLogos/ShinyWolfVox2.png?raw=true" style="height:25px; width:25px;">
+<h1 align="center"><b>Wolfvox Company:</b>🟢</h1>
 </div>
 
 Welcome to the administrative hub for **Wolfvox, Co.** This account serves as the primary management layer for our organizational operations and repository oversight.
