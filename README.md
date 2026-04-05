@@ -39,5 +39,5 @@ Wolfvox is dedicated to building high-performance solutions and fostering open-s
 
 ---
 <p align="center">
-  <sub>© 2026 Wolfvox Co. • Built for the pack.</sub>
+  <sub>© 2026 Wolfvox Co. • Built. Deploy. Connect.</sub>
 </p>
