@@ -53,7 +53,7 @@ Wolfvox is dedicated to building high-performance solutions and fostering open-s
     <img src="https://img.shields.io/badge/GitHub-Organization-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
+<img src="https://github.com/WolfVox/Logos/blob/main/baseTransIcons/wolfvoxtm-trans.png?raw=true" >
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%" />
   <br>
