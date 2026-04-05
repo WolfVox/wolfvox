@@ -1,4 +1,4 @@
-<div style="display:flex; flex-direction:row;"> 
+<div style="display:flex; flex-direction:row; justify-content:center; align-item:center;"> 
 <img src="https://github.com/WolfVox/Logos/blob/main/ShinyLogos/ShinyWolfVox2.png?raw=true" style="height:50px; width:50px;">
 <h1 align="center"><b>Wolfvox Company:</b>🟢</h1>
 </div>
