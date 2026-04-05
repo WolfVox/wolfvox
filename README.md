@@ -38,8 +38,8 @@ Wolfvox is dedicated to building high-performance solutions and fostering open-s
 ---
 
 <p align="center">
-  <img src="https://github.com/WolfVox/Logos/blob/main/Thumbnail/1.png?raw=true" height="150" />
-  <img src="https://github.com/WolfVox/Logos/blob/main/Thumbnail/2.png?raw=true" height="150" />
+  <img src="https://github.com/WolfVox/Logos/blob/main/Thumbnail/1.png?raw=true" >
+  <img src="https://github.com/WolfVox/Logos/blob/main/Thumbnail/2.png?raw=true" >
 </p>
 
 ---
