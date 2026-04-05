@@ -37,10 +37,9 @@ Wolfvox is dedicated to building high-performance solutions and fostering open-s
 
 ---
 
-### 📈 Activity & Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wolfvoxco&repo=YOUR_TOP_REPO&theme=transparent" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolfvoxco&layout=compact&theme=transparent" height="150" />
+  <img src="https://github.com/WolfVox/Logos/blob/main/Thumbnail/1.png?raw=true" height="150" />
+  <img src="https://github.com/WolfVox/Logos/blob/main/Thumbnail/2.png?raw=true" height="150" />
 </p>
 
 ---
