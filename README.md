@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/WolfVox/Logos/blob/main/shinytanslogos/ShinyWolfvox0-trans.png?raw=true" width="80" />
+  <img src="https://github.com/WolfVox/Logos/blob/main/shinytanslogos/ShinyWolfvox1-trans.png?raw=true" width="80" />
   <h1><b>WOLFVOX COMPANY</b></h1>
   <p align="center">
     <img src="https://img.shields.io/badge/Status-🟢_Active_Management-2ea44f?style=flat-square" />
