@@ -1,4 +1,8 @@
+<div> 
+<img src="https://github.com/WolfVox/Logos/blob/main/ShinyLogos/ShinyWolfVox2.png?raw=true">
 ## <h1 align="center">Wolfvox Company:🟢</h1>
+</div>
+
 Welcome to the administrative hub for **Wolfvox, Co.** This account serves as the primary management layer for our organizational operations and repository oversight.
 ![Alt text for screen readers](https://github.com/WolfVox/Logos/blob/main/Thumbnail/1.png)
 ![Alt text for screen readers](https://github.com/WolfVox/Logos/blob/main/Thumbnail/2.png)
