@@ -1,36 +1,50 @@
-<div style="display:flex; flex-direction:row; justify-content:center; align-item:center;"> 
-<img src="https://github.com/WolfVox/Logos/blob/main/ShinyLogos/ShinyWolfVox2.png?raw=true" style="height:50px; width:50px;">
-<h1 align="center"><b>Wolfvox Company:</b>🟢</h1>
+<div align="center">
+  <img src="https://github.com/WolfVox/Logos/blob/main/ShinyLogos/ShinyWolfVox2.png?raw=true" width="80" />
+  <h1><b>WOLFVOX COMPANY</b></h1>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Status-🟢_Active_Management-2ea44f?style=flat-square" />
+    <img src="https://img.shields.io/badge/Focus-Open_Source_Innovation-blue?style=flat-square" />
+  </p>
 </div>
 
-Welcome to the administrative hub for **Wolfvox, Co.** This account serves as the primary management layer for our organizational operations and repository oversight.
-![Alt text for screen readers](https://github.com/WolfVox/Logos/blob/main/Thumbnail/1.png)
-![Alt text for screen readers](https://github.com/WolfVox/Logos/blob/main/Thumbnail/2.png)
+---
+
 ### 🏢 About the Company
 Wolfvox is dedicated to building high-performance solutions and fostering open-source innovation. We believe in efficiency, modularity, and the power of the pack.
 
-* **Official Organization:** [github.com/wolfvoxco](https://github.com/wolfvoxco)
-* **Status:** 🟢 Active Management
+* **🌐 Official Organization:** [github.com/wolfvoxco](https://github.com/wolfvoxco)
+* **🚀 Current Mission:** Scaling core infrastructure at @wolfvoxco.
+* **🌱 Learning:** Advanced CI/CD automation and team scaling.
 
 ---
 
 ### 🛠️ Strategic Focus
-> "Leading through code, managing through clarity."
+> *"Leading through code, managing through clarity."*
 
-| Role | Focus Area |
-| :--- | :--- |
-| **Governance** | Maintaining project standards and documentation. |
-| **Collaboration** | Bridging the gap between contributors and core devs. |
-| **Architecture** | Overseeing system design and scalability. |
+<table width="100%">
+  <tr>
+    <td width="33%" align="center">
+      <b>⚖️ Governance</b><br>Maintaining project standards and documentation.
+    </td>
+    <td width="33%" align="center">
+      <b>🤝 Collaboration</b><br>Bridging the gap between contributors and core devs.
+    </td>
+    <td width="33%" align="center">
+      <b>🏗️ Architecture</b><br>Overseeing system design and scalability.
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🖇️ Key Connections
-* **🔭 Current Mission:** Scaling core infrastructure at @wolfvoxco.
-* **🌱 Learning:** Advanced CI/CD automation and team scaling.
-* **💬 Ask me about:** Project management, organization workflows, or vision.
+### 📈 Activity & Metrics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wolfvoxco&repo=YOUR_TOP_REPO&theme=transparent" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolfvoxco&layout=compact&theme=transparent" height="150" />
+</p>
 
- -- can you make this better and animated
+---
+
 ### 📬 Get in Touch
 <p align="left">
   <a href="mailto:wolfvoxco@gmail.com">
@@ -41,7 +55,8 @@ Wolfvox is dedicated to building high-performance solutions and fostering open-s
   </a>
 </p>
 
----
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%" />
+  <br>
   <sub>© 2026 Wolfvox Co. • Built. Deploy. Connect.</sub>
 </p>
