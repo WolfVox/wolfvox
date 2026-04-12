@@ -1,6 +1,8 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=WOLFVOX%20COMPANY&fontSize=70&animation=fadeIn" width="100%" />
+
   <img src="https://github.com/WolfVox/Logos/blob/main/shinytanslogos/ShinyWolfVox2-trans.png?raw=true" width="100" />
-  <h1><b>WOLFVOX COMPANY</b></h1>
+  
   <p align="center">
     <img src="https://img.shields.io/badge/Status-🟢_Active_Management-2ea44f?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Focus-Open_Source_Innovation-blue?style=for-the-badge" />
@@ -10,7 +12,11 @@
 ---
 
 ### 🏢 About the Company
-> Wolfvox is dedicated to building high-performance solutions and fostering open-source innovation. We believe in efficiency, modularity, and the power of the pack.
+> **Wolfvox** is dedicated to building high-performance solutions and fostering open-source innovation. We believe in efficiency, modularity, and the power of the pack.
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Scaling+core+infrastructure;Advanced+CI/CD+automation;Team+scaling+at+@wolfvoxco" alt="Typing SVG" />
+</div>
 
 * **🌐 Official Organization:** [github.com/wolfvoxco](https://github.com/wolfvoxco)
 * **🚀 Current Mission:** Scaling core infrastructure at @wolfvoxco.
