@@ -42,8 +42,8 @@
 
 ### 🛠️ Tech Stack & Activity
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolfvoxco&layout=compact&theme=vision-friendly-dark" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wolfvoxco&theme=vision-friendly-dark" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolfvox&layout=compact&theme=vision-friendly-dark" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wolfvox&theme=vision-friendly-dark" height="180px" />
 </p>
 
 ---
