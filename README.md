@@ -54,7 +54,7 @@
     <img src="https://img.shields.io/badge/Email-wolfvoxco%40gmail.com-D44638?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/wolfvoxco">
-    <img src="https://img.shields.io/badge/GitHub-wolfvoxco-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-wolfvox-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
 
