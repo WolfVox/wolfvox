@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=WOLFVOX&fontSize=70&animation=fadeIn" width="100%" />
 
-  <img src="https://github.com/WolfVox/Logos/blob/main/shinytanslogos/ShinyWolfVox2-trans.png?raw=true" width="120" />
+  <img src="https://github.com/WolfVox/Icon_Copyrights/blob/main/wolfvox_official_Treadmark/light/1-4.png?raw=true" width="120" />
   
   ## ⚡ Build. Deploy. Connect.
   
