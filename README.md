@@ -5,7 +5,7 @@
   <h1>⚡ Build. Deploy. Connect.</h1>
 
   <p>
-    <img src="https://img.shields.io/badge/Status-🟢_Active-2ea44f?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Status-🟢_Active-1c1c1c?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Focus-Open_Source-blue?style=for-the-badge" />
     <img src="https://img.shields.io/github/followers/wolfvoxco?label=Follow&style=for-the-badge&color=white" />
   </p>
