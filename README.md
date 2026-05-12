@@ -12,7 +12,7 @@
   </p>
 </div>
 
----
+[![Watch the video](https://path-to-your-thumbnail-image.png)](https://github.com/WolfVox/copyrights/blob/main/readme/wolfvoxt1.mp4)
 
 ### 🚀 Featured Products
 <p align="center"> 
