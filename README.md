@@ -11,15 +11,22 @@
   </p>
 
   <p>
-    <img src="https://img.shields.io/github/stars/wolfvox?style=flat-square&color=ffd700&label=Stars" />
-    <img src="https://img.shields.io/github/issues/wolfvox/copyrights?style=flat-square&color=ff4500&label=Issues" />
-    <img src="https://img.shields.io/github/languages/count/wolfvox/copyrights?style=flat-square&color=9370db&label=Languages" />
-    <img src="https://img.shields.io/github/license/wolfvox/copyrights?style=flat-square&color=4682b4&label=License" />
+    <img src="https://img.shields.io/badge/Main_Stack-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Cloud-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+    <img src="https://img.shields.io/badge/UI-Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
+    <img src="https://img.shields.io/badge/Engine-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
   </p>
 
   <p>
-    <a href="https://twitter.com/wolfvoxco">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/github/directory-file-count/wolfvox/copyrights?style=flat-square&color=gray&label=Files" />
+    <img src="https://img.shields.io/github/last-commit/wolfvox/copyrights?style=flat-square&color=green&label=Last%20Update" />
+    <img src="https://img.shields.io/github/repo-size/wolfvox/copyrights?style=flat-square&label=Repo%20Size" />
+    <img src="https://img.shields.io/github/v/release/wolfvox/copyrights?style=flat-square&color=orange&label=Version" />
+  </p>
+
+  <p>
+    <a href="https://linkedin.com/in/yourprofile">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://discord.gg/yourlink">
       <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
