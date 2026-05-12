@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-  <img src="https://github.com/WolfVox/Icon_Copyrights/blob/main/wolfvox_official_Treadmark/light/1-4.png?raw=true" width="140" alt="WolfVox Logo" />
+  <img src="https://github.com/WolfVox/Icon_Copyrights/blob/main/wolfvox_official_Treadmark/light/1-4.png?raw=true" width="500" alt="WolfVox Logo" />
 
   <h1>⚡ Build. Deploy. Connect.</h1>
 
