@@ -12,7 +12,18 @@
   </p>
 </div>
 
-[![Watch the video](https://github.com/WolfVox/Icon_Copyrights/blob/main/wolfvox_official_Treadmark/light/1-4.png?raw=true)](https://github.com/WolfVox/copyrights/blob/main/readme/wolfvoxt1.mp4)
+---
+
+### 📺 Product Preview
+<div align="center">
+  <video src="https://github.com/WolfVox/copyrights/raw/main/readme/wolfvoxt1.mp4" width="100%" controls autoplay muted loop>
+    Your browser does not support the video tag.
+  </video>
+  <br>
+  <sub><i>If the video above doesn't load, <a href="https://github.com/WolfVox/copyrights/blob/main/readme/wolfvoxt1.mp4">click here to watch</a></i></span>
+</div>
+
+---
 
 ### 🚀 Featured Products
 <p align="center"> 
@@ -33,15 +44,15 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/WolfVox/Logos/blob/main/Thumbnail/6.png?raw=true" width="32.5%" style="border-radius:10px;" />
-  <img src="https://github.com/WolfVox/Logos/blob/main/Thumbnail/3.png?raw=true" width="32.5%" style="border-radius:10px;" />
-  <img src="https://github.com/WolfVox/Logos/blob/main/Thumbnail/4.png?raw=true" width="32.5%" style="border-radius:10px;" />
+  <img src="https://github.com/WolfVox/Logos/blob/main/Thumbnail/6.png?raw=true" width="32%" style="border-radius:10px;" />
+  <img src="https://github.com/WolfVox/Logos/blob/main/Thumbnail/3.png?raw=true" width="32%" style="border-radius:10px;" />
+  <img src="https://github.com/WolfVox/Logos/blob/main/Thumbnail/4.png?raw=true" width="32%" style="border-radius:10px;" />
 </p>
 
 ---
 
 ### 🛠️ Tech Stack & Activity
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolfvox&layout=compact&theme=vision-friendly-dark" height="180px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wolfvox&theme=vision-friendly-dark" height="180px" />
 </p>
