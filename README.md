@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-  <img src="https://github.com/WolfVox/copyrights/blob/main/readme/1.png?raw=true" width="1000" alt="WolfVox Logo" />
+  <img src="https://github.com/WolfVox/logos/blob/main/readme/1.png?raw=true" width="1000" alt="WolfVox Logo" />
 
   <h1>⚡ Build. Deploy. Connect.</h1>
 
@@ -40,5 +40,5 @@
     </a>
   </p>
   <br />
-  <img src="https://github.com/WolfVox/copyrights/blob/main/readme/2.png?raw=true" width="1000" alt="WolfVox Logo" />
+  <img src="https://github.com/WolfVox/logos/blob/main/readme/2.png?raw=true" width="1000" alt="WolfVox Logo" />
 </div>
